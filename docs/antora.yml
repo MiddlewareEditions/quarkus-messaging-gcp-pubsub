@@ -1,0 +1,5 @@
+name: quarkus-messaging-gcp-pubsub
+title: Quarkus Messaging Gcp Pubsub
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
